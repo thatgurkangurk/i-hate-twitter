@@ -1,0 +1,1 @@
+<h1>welcome to i-hate-twitter</h1>
